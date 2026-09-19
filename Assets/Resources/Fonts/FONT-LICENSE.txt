@@ -1,0 +1,6 @@
+Baloo 2 (Medium, Bold, ExtraBold)
+Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+The full license text is available at https://openfontlicense.org and must be
+included with any distribution of the font files.
