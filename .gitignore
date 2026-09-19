@@ -21,6 +21,7 @@ Pods/
 *.xcodeproj
 
 # IDE and solution files (Unity regenerates them).
+.utmp/
 .vs/
 .idea/
 .vscode/
@@ -28,6 +29,7 @@ Pods/
 *.csproj
 *.unityproj
 *.sln
+*.slnx
 *.suo
 *.tmp
 *.user
